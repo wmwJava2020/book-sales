@@ -1,3 +1,4 @@
+/*
 package com.meandaida.booksale.model;
 
 import jakarta.persistence.*;
@@ -20,3 +21,4 @@ public class BookSalesEntity {
     private boolean isAvaliable;
 
 }
+*/

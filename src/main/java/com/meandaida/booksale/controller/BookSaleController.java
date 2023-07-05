@@ -1,3 +1,4 @@
+/*
 package com.meandaida.booksale.controller;
 
 import com.meandaida.booksale.model.BookSalesEntity;
@@ -27,3 +28,4 @@ public class BookSaleController {
 //    }
 
 }
+*/

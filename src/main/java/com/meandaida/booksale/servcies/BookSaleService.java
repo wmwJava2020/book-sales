@@ -1,3 +1,4 @@
+/*
 package com.meandaida.booksale.servcies;
 
 import com.meandaida.booksale.model.BookSalesEntity;
@@ -28,3 +29,4 @@ public class BookSaleService {
 //        return repository.savedBooks(bookSales);
 //    }
 }
+*/

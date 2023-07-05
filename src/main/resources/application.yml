@@ -1,14 +1,14 @@
-server:
-  port: 1921
-spring:
-  datasource:
-    url: jdbc:h2:mem:bookdb
-    username: aida559
-    password: password123
-  h2:
-    console:
-      enabled: true
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
+#server:
+#  port: 1921
+#spring:
+#  datasource:
+#    url: jdbc:h2:mem:bookdb
+#    username: aida559
+#    password: password123
+#  h2:
+#    console:
+#      enabled: true
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
