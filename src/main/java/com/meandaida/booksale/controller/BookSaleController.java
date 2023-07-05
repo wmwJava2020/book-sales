@@ -21,9 +21,9 @@ public class BookSaleController {
        return service.getAllBooks(entity);
 
     }
-   /* @PostMapping("final-sales")
-    public BookSalesEntity myBooks(@RequestBody BookSalesEntity bookSales){
-        return service.savedBooks(bookSales);
-    }*/
+//    @PostMapping("final-sales")
+//    public BookSalesEntity myBooks(@RequestBody BookSalesEntity bookSales){
+//        return service.savedBooks(bookSales);
+//    }
 
 }

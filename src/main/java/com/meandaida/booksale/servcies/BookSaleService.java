@@ -21,10 +21,10 @@ public class BookSaleService {
         return repository.save(entity);
     }
 
-   /* public BookSalesEntity savedBooks(BookSalesEntity bookSales){
-        bookSales.setBName("All-fictions");
-        bookSales.setBPrice(100L);
-        bookSales.setAvaliable(Boolean.TRUE);
-        return repository.savedBooks(bookSales);
-    }*/
+//   public BookSalesEntity savedBooks(BookSalesEntity bookSales){
+//        bookSales.setBName("All-fictions");
+//        bookSales.setBPrice(100L);
+//        bookSales.setAvaliable(Boolean.TRUE);
+//        return repository.savedBooks(bookSales);
+//    }
 }
