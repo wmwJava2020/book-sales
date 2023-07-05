@@ -17,7 +17,6 @@ public class BookSaleApplication {
 	}
 	public static void main(String[] args) {
 		logger.info("Application executed form MAIL METHOD....");
-		logger.info("second commit is done for testing from mail methods.");
 		SpringApplication.run(BookSaleApplication.class, args);
 	}
 
