@@ -20,6 +20,7 @@ public class BookSaleApplication {
 		logger.info("POst maven and java config changes");
 		logger.info("3rd times..... maven and java config changes");
 		logger.info("4rd times..... maven and java config changes");
+		logger.info("5th times..... maven and java config changes");
 		SpringApplication.run(BookSaleApplication.class, args);
 	}
 
