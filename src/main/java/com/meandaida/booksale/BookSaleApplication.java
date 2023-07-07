@@ -17,10 +17,6 @@ public class BookSaleApplication {
 	}
 	public static void main(String[] args) {
 		logger.info("Application executed form MAIL METHOD....");
-		logger.info("POst maven and java config changes");
-		logger.info("3rd times..... maven and java config changes");
-		logger.info("4rd times..... maven and java config changes");
-		logger.info("5th times..... maven and java config changes.....");
 		SpringApplication.run(BookSaleApplication.class, args);
 	}
 
