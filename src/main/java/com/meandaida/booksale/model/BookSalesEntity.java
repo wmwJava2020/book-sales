@@ -19,6 +19,7 @@ public class BookSalesEntity {
     private String bName;
     private double bPrice;
     private boolean isAvaliable;
+    private String location;
 
 }
 */
